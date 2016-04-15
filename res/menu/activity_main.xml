@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/MenuAdd"
+          android:icon="@drawable/ic_launcher"
+          android:title="Añadir Edificio" >
+    </item>
+    <item android:id="@+id/MenuEdit" android:title="Editar Edificio" 
+          android:icon="@android:drawable/ic_menu_compass">
+    </item>
+    <item android:id="@+id/MenuDelete" android:title="Elimar Edificio" 
+          android:icon="@android:drawable/ic_menu_preferences">
+    </item>
+     <item android:id="@+id/MenuUpdate" android:title="Actualizar lista" 
+          android:icon="@android:drawable/ic_menu_preferences">
+    </item>
+</menu>
